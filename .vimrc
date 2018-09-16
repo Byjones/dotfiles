@@ -25,3 +25,4 @@ set softtabstop=4 "number of spaces in tab when editing
 
 " Color scheme
 colorscheme torte
+"FOOBAR!!!
