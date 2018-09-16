@@ -6,6 +6,3 @@ Host *
 Host isengard
     User byjones
     HostName isengard.mines.edu
-Host raspi
-	User pi
-	Hostname 
