@@ -1,0 +1,11 @@
+
+Host *
+    ServerAliveInterval 120
+    ServerAliveCountMax 30
+
+Host isengard
+    User byjones
+    HostName isengard.mines.edu
+Host raspi
+	User pi
+	Hostname 

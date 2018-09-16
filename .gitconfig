@@ -1,0 +1,5 @@
+[user]
+	email = byjones@mymail.mines.edu
+	name = byjones
+[credential]
+	helper = cache --timeout 28800
