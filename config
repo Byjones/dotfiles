@@ -1,8 +1,12 @@
 
 Host *
-    ServerAliveInterval 120
-    ServerAliveCountMax 30
+	ServerAliveInterval 120
+	ServerAliveCountMax 30
 
 Host isengard
-    User byjones
-    HostName isengard.mines.edu
+	User byjones
+	HostName isengard.mines.edu
+
+Host alamode
+	User byjones
+	HostName bb136-15
