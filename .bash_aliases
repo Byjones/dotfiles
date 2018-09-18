@@ -30,5 +30,8 @@ alias mv='mv -i'
 alias cp='cp -i'
 alias ln='ln -i'
 
+# python stuff
+alias python='python3.7'
+
 # Easily move to working directories
 #alias 
