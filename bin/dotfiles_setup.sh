@@ -1,6 +1,6 @@
 #!/bin/bash
 
-dotfiles=(".vimrc" ".bash_aliases" ".gitconfig" ".tmux.conf")
+dotfiles=(".vimrc" ".bash_aliases" ".gitconfig" ".tmux.conf" "bin/")
 
 dir="${HOME}/dev/dotfiles"
 
