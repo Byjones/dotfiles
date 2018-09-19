@@ -34,6 +34,4 @@ alias ln='ln -i'
 alias python='python3.7'
 
 # Easily move to working directories
-alias _CSCI442='cd ~/dev/csm_2018_fall/CSCI442' 
-alias _CSCI475='cd ~/dev/csm_2018_fall/CSCI475' 
-alias _CSCI471='cd ~/dev/csm_2018_fall/CSCI471' 
+cdez() { cd "${HOME}/"$1"/csm_"$2"_fall/"$3""; } 
