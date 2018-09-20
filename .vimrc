@@ -24,3 +24,5 @@ set softtabstop=4	"number of spaces in tab when editing
 
 " color scheme
 colorscheme torte
+
+set encoding=utf-8

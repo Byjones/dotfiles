@@ -31,7 +31,7 @@ alias cp='cp -i'
 alias ln='ln -i'
 
 # python stuff
-alias python='python3.7'
+#alias python='python'
 
 # Easily move to working directories
 cdez() { cd "${HOME}/"$1"/csm_"$2"_fall/"$3""; } 
