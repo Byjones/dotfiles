@@ -34,4 +34,4 @@ alias ln='ln -i'
 #alias python='python'
 
 # Easily move to working directories
-cdez() { cd "${HOME}/"$1"/csm_"$2"_fall/"$3""; } 
+cdez() { cd "${HOME}/"$1"/csm_coursework/"$2"_"$3"/"$4""; } 
