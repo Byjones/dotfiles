@@ -23,6 +23,6 @@ set tabstop=4		"number of spaces per TAB
 set softtabstop=4	"number of spaces in tab when editing
 
 " color scheme
-colorscheme torte
+colorscheme slate
 
 set encoding=utf-8
