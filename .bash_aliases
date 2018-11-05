@@ -18,7 +18,7 @@ alias .3='cd ../../../'
 alias .4='cd ../../../../'
 
 # Format list files
-alias ls='ls -1 --color=auto'
+alias ls='ls --color=auto'
 alias la='ls -a --color=auto'
 alias ll='ls -l --color=auto'
 
