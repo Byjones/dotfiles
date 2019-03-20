@@ -35,4 +35,4 @@ alias ln='ln -i'
 
 # Easily move to working directories
 # cdez "year" "season" "class"
-cdez() { cd "${HOME}/csm_coursework/"$2"/"$3"/"$4""; } 
+cdez() { cd "${HOME}/Documents/csm_coursework/"$1"/"$2"/"$3""; } 
