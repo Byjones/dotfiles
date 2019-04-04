@@ -26,4 +26,6 @@ set softtabstop=4	"number of spaces in tab when editing
 colorscheme slate
 
 set encoding=utf-8
+
+" change the escape key
 imap ii <ESC>
