@@ -32,6 +32,7 @@ alias ln='ln -i'
 
 # python stuff
 #alias python='python3.7'
+alias racket='racket.exe'
 
 # Easily move to working directories
 # cdez "year" "season" "class"
